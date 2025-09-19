@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+inference-sdk
+numpy
+opencv-python
+Pillow
+requests
+beautifulsoup4
+flask
+pandas
+scikit-learn
+jinja2
+scipy
+matplotlib
